@@ -27,6 +27,7 @@ Swagger UI: http://localhost:8080/swagger-ui.html
 | ----- | ------------------ | ----------------------------------- | -------------------------------- |
 | POST  | /api/auth/register | {"email": "...", "password": "..."} | {"token": "..."}                 |
 | POST  | /api/auth/login    | {"email": "...", "password": "..."} | {"token": "..."}                 |
+
 Задачи (USER/ADMIN)
 
 | Метод  | Эндпоинт        | Тело запроса                                         | Описание        |
